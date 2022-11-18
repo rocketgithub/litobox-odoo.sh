@@ -1,0 +1,1 @@
+# litobox-odoo.sh
