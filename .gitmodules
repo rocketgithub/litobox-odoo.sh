@@ -2,3 +2,7 @@
 	path = l10n_gt_extra
 	url = git@github.com:rocketgithub/l10n_gt_extra.git
 	branch = 13.0
+[submodule "kardex"]
+	path = kardex
+	url = git@github.com:rocketgithub/kardex.git
+	branch = 13.0
